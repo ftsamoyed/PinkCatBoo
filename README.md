@@ -5,7 +5,7 @@ This is a cute & warm theme for our girls js-coder, with rose pink, light purple
 Hope yall like it:)
 
 ### Screenshot
-![Preview](https://raw.githubusercontent.com/ftsamoyed/PinkCatBoo/blob/master/preview.png)
+![Preview](https://raw.githubusercontent.com/ftsamoyed/PinkCatBoo/master/preview.png)
 
 ### Based on
 PinkCatBoo theme was on the basis of monokai dimmed. 
