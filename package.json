@@ -1,7 +1,8 @@
 {
 	"name": "theme-pink-cat-boo",
+	"displayName": "Pink-Cat-Boo Theme",
 	"version": "1.0.0",
-	"publisher": "ftsamoyed(Fiona Fan)",
+	"publisher": "ftsamoyed",
 	"icon": "icon.png",
 	"engines": { 
 		"vscode": "*" 
