@@ -1,10 +1,11 @@
-### Darktooth for Visual Studio Code
+### About Pink-Cat-Boo
 
-This is a port of the [Darktooth theme](https://github.com/emacsfodder/emacs-theme-darktooth) for Emacs. The theme was generated using the [TmTheme Editor](https://tmtheme-editor.herokuapp.com).
+Happy Women's Day, girls.
+This is a cute & warm theme for our girls js-coder, with rose pink, light purple, banana yellow and sky blue. 
+Hope yall like it:)
 
-#### Screenshot
-![Preview](https://raw.githubusercontent.com/Poorchop/darktooth-theme-ports/master/vscode-theme-darktooth/Darktooth-vscode.png)
+### Screenshot
+![Preview](https://raw.githubusercontent.com/ftsamoyed/PinkCatBoo/blob/master/preview.png)
 
-#### Additional links
-* [GitHub repository](https://github.com/Poorchop/darktooth-theme-ports/tree/master/vscode-theme-darktooth)
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Poorchop.theme-darktooth)
+### Based on
+PinkCatBoo theme was on the basis of monokai dimmed. 

@@ -1,9 +1,11 @@
 {
 	"name": "theme-pink-cat-boo",
-	"version": "1.0",
+	"version": "1.0.0",
 	"publisher": "ftsamoyed(Fiona Fan)",
 	"icon": "icon.png",
-	"engines": { "vscode": "*" },
+	"engines": { 
+		"vscode": "*" 
+	},
 	"auth": {
 		"name": "ftsamoyed(Fiona Fan)",
     	"email": "ftsamoyed@gmail.com",
@@ -12,6 +14,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ftsamoyed/PinkCatBoo"
+	},
+	"bugs": {
+		"url": "https://github.com/ftsamoyed/PinkCatBoo/issues"
 	},
 	"galleryBanner": {
 		"color": "#202330",
