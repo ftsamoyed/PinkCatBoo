@@ -8,6 +8,9 @@ Hope yall like it (ง •▿•́)ง
 ![Preview](https://raw.githubusercontent.com/ftsamoyed/PinkCatBoo/master/preview.png)
 
 ### Update
+##### v1.3.0 (2018/10/12)
+ - Adapt custom title bar (only apply for VS Code versions 1.28 and higher)
+ 
 ##### v1.2.0 (2018/6/14)
  - Change colors of error/warning hints in edtor and sidebar
  - Add top border color to active tab

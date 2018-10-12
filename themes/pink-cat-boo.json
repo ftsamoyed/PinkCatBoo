@@ -33,6 +33,7 @@
 		"list.hoverBackground": "#565970",
 		"list.highlightForeground": "#FFFFFF",
 		"list.errorForeground": "#ff62a5",
+		"menu.separatorBackground": "#f3b4bf",
 		"notificationCenter.border": "#f3b4bf",
 		"notificationCenterHeader.background": "#f3b4bf",
 		"notificationCenterHeader.foreground": "#ffffff",
@@ -55,7 +56,7 @@
 		"tab.activeForeground": "#fe7c8e",
 		"tab.activeBorderTop": "#fe7c8e",
 		"terminal.ansiWhite": "#ffffff",		
-		"titleBar.activeBackground": "#f3b4bf"
+		"titleBar.activeBackground": "#2d2f42"
 	},
 	"tokenColors": [
 		{
