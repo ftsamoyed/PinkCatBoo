@@ -56,7 +56,9 @@
 		"tab.activeForeground": "#fe7c8e",
 		"tab.activeBorderTop": "#fe7c8e",
 		"terminal.ansiWhite": "#ffffff",		
-		"titleBar.activeBackground": "#2d2f42"
+		"titleBar.activeBackground": "#2d2f42",
+		"editorIndentGuide.background": "#707070",
+		"editorIndentGuide.activeBackground": "#ffedf0"
 	},
 	"tokenColors": [
 		{
